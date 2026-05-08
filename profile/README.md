@@ -1,7 +1,7 @@
 # MATRICS Bootcamp
 **The Multiscale Advanced Training in Research Intensive Computing at Stanford Bootcamp**
 
-MATRICS is a week-long, hands-on High Performance Computing (HPC) bootcamp for Stanford graduate students and postdocs, run by the [SDSS Center for Computation](https://sdss-compute.stanford.edu) team. It is designed to provide you with the real-world skills to take full advantage of Stanford's world-class computing infrastructure through your own research.
+MATRICS is a week-long, hands-on High Performance Computing (HPC) bootcamp for Stanford graduate students and postdocs, and is a collaboration between the [SDSS Center for Computation](https://sdss-compute.stanford.edu), [Stanford HAI Data Science](https://datascience.stanford.edu), and NVIDIA, with generous computing support from Google Cloud and NSF ACCESS. It is designed to provide you with the real-world skills to take full advantage of Stanford's world-class computing infrastructure through your own research. 
 
 MATRICS 2026 is taking place from May 11-15 on Stanford Main Campus. Welcome to the inaugural MATRICS Cohort. We're excited to see you at MATRICS soon!
 
