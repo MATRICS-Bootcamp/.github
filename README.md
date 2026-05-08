@@ -3,7 +3,7 @@
 
 MATRICS is a week-long, hands-on High Performance Computing (HPC) bootcamp for Stanford graduate students and postdocs, run by the [SDSS Center for Computation](https://sdss-compute.stanford.edu) team. It is designed to provide you with the real-world skills to take full advantage of Stanford's world-class computing infrastructure through your own research.
 
-MATRICS 2026 is taking place from May 11-15 on Stanford Campus.
+MATRICS 2026 is taking place from May 11-15 on Stanford Main Campus. Welcome to the inaugural MATRICS Cohort. We're excited to see you at MATRICS soon!
 
 ---
 
@@ -12,6 +12,7 @@ MATRICS 2026 is taking place from May 11-15 on Stanford Campus.
 MATRICS covers the full HPC stack needed for academic level research, from running your first batched job to running large-scale parallelized AI workloads on computing systems like Stanford's Sherlock cluster, NSF ACCESS's cluster network, NVIDIA Cloud, and Google Cloud.
 
 **Mornings** are hands-on tutorials where participants apply new HPC concepts to real examples live on supercomputing clusters. Sessions are led by the MATRICS tutorial team, and are structured as guided peer-learning environments. Topics include cluster architecture and job scheduling, parallelization strategies, machine learning workflow optimization, and more.
+
 **Afternoons** are dedicted project time. Participants bring components from their own dissertation or postdoctoral research, and apply the morning's skills directly to their own workflows, with facilitation and assistance from the SDSS Center for Computation Team, SRCC, and NVIDIA Solutions Architects.
 
 ---
