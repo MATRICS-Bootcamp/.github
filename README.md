@@ -1,5 +1,5 @@
 # MATRICS Bootcamp
-**The Multiscale Advanced Training in Research Intensive Computing at Stanford**
+**The Multiscale Advanced Training in Research Intensive Computing at Stanford Bootcamp**
 
 MATRICS is a week-long, hands-on High Performance Computing (HPC) bootcamp for Stanford graduate students and postdocs, run by the [SDSS Center for Computation](https://sdss-compute.stanford.edu) team. It is designed to provide you with the real-world skills to take full advantage of Stanford's world-class computing infrastructure through your own research.
 
