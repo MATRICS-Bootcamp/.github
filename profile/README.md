@@ -23,6 +23,7 @@ MATRICS covers the full HPC stack needed for academic level research, from runni
 |---|---|
 | `estimating-and-requesting-resources` | How to estimate the HPC resources that you'll need, and efficient pathways to request them |
 | `stacking-and-moving-containers` | How to move your software stack from machine to machine without reinstallation |
+| `hyperparameter-sweeps-with-wandb` | How to run and track  hyperparameter sweeps automatically across HPC systems|
 | `scaling-up-cpus-and-gpus` | How to distribute your code across multiple CPUs and/or GPUs |
 | `preempting-and-checkpointing` | How to run your job on partitions that are "interruptable" |
 
